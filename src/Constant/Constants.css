@@ -1,0 +1,24 @@
+.constants-header{
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 5em;
+    height:2.5em;
+    margin: auto;
+    font-size: 4em;
+    width: 60%;
+}
+.constants-header-text {
+    padding-top: .25em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.constants-footer:a:visited { text-decoration: none; color:black }
+.constants-footer:a:hover { text-decoration: none; color:black }
+.constants-footer:a:focus { text-decoration: none; color:black }
+.constants-footer:a:hover, .constants-footer:a:active { text-decoration: none; color:black }
+.constants-footer {
+    text-align: center;
+    margin-top: 2em;
+    padding-top: 2em;
+}
