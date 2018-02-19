@@ -10,7 +10,7 @@ class About extends React.Component {
             <Grid className="about fade-in">
                 <Row>
                     <Col xs={12} md={12}>
-                        <Link to="/"><h1>&lt;</h1></Link>
+                        <h1><Link to="/">&lt;</Link></h1>
                         <h1>About me</h1>
                     </Col>
                 </Row>
